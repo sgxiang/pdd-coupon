@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "production": "/components/production/production"
+  },
+  "navigationBarTitleText": "拼多多券",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 60
+}

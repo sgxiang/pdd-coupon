@@ -1,0 +1,44 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/detail/detail",
+    "pages/about/about",
+    "pages/search/search",
+    "pages/stype/stype"
+  ],
+  "tabBar": {
+    "color": "#707070",
+    "selectedColor": "#ec6933",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "多多券",
+        "iconPath": "/images/home.png",
+        "selectedIconPath": "/images/home-s.png"
+      },
+      {
+        "pagePath": "pages/search/search",
+        "text": "搜索",
+        "iconPath": "/images/search.png",
+        "selectedIconPath": "/images/search-s.png"
+      },
+      {
+        "pagePath": "pages/about/about",
+        "text": "我的",
+        "iconPath": "/images/user.png",
+        "selectedIconPath": "/images/user-s.png"
+      }
+    ]
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#f0f0f0"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

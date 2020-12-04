@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "production": "/components/production/production"
+  },
+  "navigationBarTitleText": "券多省钱通",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 60
+}
