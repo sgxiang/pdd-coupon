@@ -87,8 +87,8 @@ exports.main = async (event, context) => {
         let t_list = [];
         for (let g of r.goods_search_response.goods_list) {
           if (
-            g.goods_desc.indexOf("电子书") !== -1 ||
-            g.goods_name.indexOf("电子书") !== -1
+            (g.goods_desc && g.goods_desc.indexOf("电子书") !== -1) ||
+            (g.goods_name && g.goods_name.indexOf("电子书") !== -1)
           ) {
           } else {
             t_list.push(g);
