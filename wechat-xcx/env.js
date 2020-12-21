@@ -1,5 +1,5 @@
 export default {
-  // 微信云函数配置
+  // 微信云函数配置，云开发的环境ID
   wxCloudEnv: "",
   // 跳转外卖券
   waimai: {
