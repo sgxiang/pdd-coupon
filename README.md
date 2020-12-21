@@ -28,4 +28,6 @@
 
 <img src="https://raw.githubusercontent.com/sgxiang/pdd-coupon/main/xcx-1.png" width="200"/> <img src="https://raw.githubusercontent.com/sgxiang/pdd-coupon/main/xcx-2.png" width="200"/> <img src="https://raw.githubusercontent.com/sgxiang/pdd-coupon/main/xcx-3.png" width="200"/>
 
+<img src="https://raw.githubusercontent.com/sgxiang/pdd-coupon/main/xcx-4.png" width="200"/>
+
 如有疑问，请提issue或微信联系：sgxiang
