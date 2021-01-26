@@ -30,4 +30,4 @@
 
 <img src="https://raw.githubusercontent.com/sgxiang/pdd-coupon/main/xcx-4.png" width="200"/>
 
-如有疑问，请提issue或微信联系：sgxiang
+如有疑问，请提issue或微信联系：sgxiang（无编程经验者勿扰或付费咨询。有编程经验值请先查阅云开发相关的文章以及上面的其他问题，如果还有疑问再咨询。）
